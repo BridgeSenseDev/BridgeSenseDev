@@ -1,10 +1,7 @@
 ### Hi there, I'm BridgeSense 👋
-
-<div style="text-align: center;">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BridgeSenseMC&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BridgeSenseMC&theme=dracula&hide_border=true" />
+</p>
 
 ---
 ### [![wakatime](https://wakatime.com/badge/user/67a6a03b-e8cb-4c41-be57-29b1bca617e0.svg)](https://wakatime.com/@67a6a03b-e8cb-4c41-be57-29b1bca617e0)
