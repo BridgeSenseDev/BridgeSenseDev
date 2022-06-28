@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm BridgeSense 👋
+---
+### [![wakatime](https://wakatime.com/badge/user/67a6a03b-e8cb-4c41-be57-29b1bca617e0.svg)](https://wakatime.com/@67a6a03b-e8cb-4c41-be57-29b1bca617e0)
 
-<!--
-**BridgeSenseMC/BridgeSenseMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://wakatime.com/badge/user/67a6a03b-e8cb-4c41-be57-29b1bca617e0.svg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BridgeSense&theme=dracula&bg_color=10,000428,004e92" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github-readme-stats.vercel.app/api?username=BridgeSenseMC&count_private=true&show_icons=true&theme=dracula&bg_color=10,000428,004e92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BridgeSenseMC&count_private=true&show_icons=true&theme=dracula&bg_color=10,000428,004e92" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BridgeSense&layout=compact&bg_color=10,000428,004e92&theme=dracula" />
