@@ -1,4 +1,5 @@
 ### Hi there, I'm BridgeSense 👋
+
 <div style="text-align: center;">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BridgeSenseMC&theme=dracula&hide_border=true)](https://git.io/streak-stats)
