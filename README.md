@@ -8,9 +8,9 @@
 ### [![wakatime](https://wakatime.com/badge/user/67a6a03b-e8cb-4c41-be57-29b1bca617e0.svg)](https://wakatime.com/@67a6a03b-e8cb-4c41-be57-29b1bca617e0)
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BridgeSense&theme=dracula&bg_color=10,000428,004e92&layout=compact" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BridgeSense&theme=dracula&bg_color=10,000428,004e92&layout=compact&hide_border=True" width="55%" />
 <br clear="all" />
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=BridgeSenseMC&count_private=true&show_icons=true&theme=dracula&bg_color=10,000428,004e92" width="55%" /> 
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=BridgeSense&layout=compact&bg_color=10,000428,004e92&theme=dracula" width="40%" />
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=BridgeSenseMC&count_private=true&show_icons=true&theme=dracula&bg_color=10,000428,004e92&hide_border=True" width="55%" /> 
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=BridgeSense&layout=compact&bg_color=10,000428,004e92&theme=dracula&hide_border=True" width="40%" />
 </p>
 
