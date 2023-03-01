@@ -21,4 +21,4 @@
   <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=BridgeSense&theme=dracula&langs_count=8&layout=compact&hide_border=True" /></div>
 </div>
 
-[![BridgeSense's github activity graph](https://activity-graph.herokuapp.com/graph?username=BridgeSenseDev&custom_title=BridgeSense's%20Contribution%20Graph&hide_border=true&title_color=fe6e95&theme=dracula&bg_color=282a36&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![BridgeSense's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BridgeSenseDev&custom_title=BridgeSense's%20Contribution%20Graph&hide_border=true&title_color=fe6e95&theme=dracula&bg_color=282a36&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
